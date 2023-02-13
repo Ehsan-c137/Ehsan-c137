@@ -15,7 +15,7 @@
 
 [<img align="left" alt="telegram" title="Telegram" width="28px" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" />][telegram]
 [<img align="left" alt="linkedin" title="LinkedIn" width="28px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
-[<img align="left" alt="discord" title="Discord | + 20Sadegh +#0838" width="28px" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/discord_message_interaction_logo_communication-256.png" />][discord]
+[<img align="left" alt="discord" title="Discord | + EhsanMousavi" width="28px" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/discord_message_interaction_logo_communication-256.png" />][discord]
 <a href="mailto:ehsanmousavi1.em@gmail.com"><img align="left" alt="email" title="Email" width="28px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" /></a>
 
 <br/><br/>
