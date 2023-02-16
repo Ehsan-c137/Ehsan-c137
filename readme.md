@@ -9,7 +9,7 @@
 -  👯 I’m looking to collaborate with other developers
 -  🤔 I’m looking for a Job opportunity...
 -  📫 How to reach me: <a src="ehsanmousavi1.em@gmail.com">EhsanMousavi1.em@gmail.com</a>
--  ⚡ Hobbies: Photography & playing guitar
+
 
 ### **Connect with me:**
 
