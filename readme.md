@@ -4,9 +4,9 @@
 
 ## **I'm a Front-End Developer, and College Student!**
 
--  🔭 I’m currently working on a project for my portfolio
--  🌱 I’m currently learning everything
--  👯 I’m looking to collaborate with other developers
+-  🔭 working on projects for my portfolio
+-  🌱 & learning everything
+-  👯 if you looking for developer to collaborate, i'm glad to join you.
 -  🤔 I’m looking for a Job opportunity...
 -  📫 How to reach me: <a src="ehsanmousavi1.em@gmail.com">EhsanMousavi1.em@gmail.com</a>
 
