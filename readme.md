@@ -1,5 +1,5 @@
 # Hi there, I'm Ehsan 👋
-### A Front-End Developer and College Student
+### A Front-End Developer
 
 I'm a passionate front-end developer and a dedicated college student with a love for building beautiful and functional web applications. I'm currently focused on expanding my portfolio with new projects and staying up-to-date with the latest industry trends.
 
@@ -7,7 +7,6 @@ I'm a passionate front-end developer and a dedicated college student with a love
 - 🌱 **I'm learning:** More about back-end development to become a full-stack developer.
 - 👯 **Looking to collaborate on:** Open-source projects or innovative web applications. Let's build something great together!
 - 🤔 **I'm looking for:** A job opportunity where I can grow my skills and contribute to a fantastic team.
-- 📫 **How to reach me:** ehsanmousavi1.em@gmail.com
 
 ---
 
